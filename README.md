@@ -1,2 +1,2 @@
 # Node-Weather-Web-App
-Node-based weather application
+Node-based Asynchronous weather application
